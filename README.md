@@ -1,61 +1,57 @@
-<!-- Banner Principal -->
-<!-- Substitui a URL da imagem abaixo pela URL da tua imagem de banner (ex: Canva, Imgur, etc.) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=ADS+Student;Future+Developer;Bem-vindo+ao+meu+GitHub"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=200&section=header&text=Hilbert%20Gabriel&fontSize=35&fontColor=00BFFF"/>
 
-<!-- Saudação e Apresentação Principal -->
-<h1 align="center">Hi there, I'm Hilbert Gabriel 👋</h1>
+# 👨‍💻 Hilbert Gabriel
+### 💻 Estudante de ADS | Futuro Desenvolvedor Web
 
-<h3 align="center">
-  Estudante de ADS 💻 | Foco em Desenvolvimento Web 🚀
-</h3>
+---
 
-<p align="center">
- Gosto de tecnologia, programação e aprender na prática. 
-Estou focado em evoluir como desenvolvedor web e construir projetos reais.
-</p>
+## 🔹 sobre_mim
 
-<hr />
+Olá! Eu sou o Hilbert 👋  
 
-<!-- Redes Sociais e Contacto -->
-### 🤝 Connect with me:
+Atualmente estudo Análise e Desenvolvimento de Sistemas (ADS).  
+Gosto de tecnologia, programação e aprender na prática.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hilbertgabriel-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/hilbertgabriel-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:teu-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="Gmail" />
-  </a>
-</p>
+Estou focado em desenvolvimento web e em criar projetos que realmente funcionem.
 
-<ul>
-  <li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
-</ul>
+---
 
-<hr />
+## 🔹 tecnologias
 
-<!-- Projetos Atuais -->
-### 🔭 I'm currently working on
+### 💻 Front-End
+![HTML](https://img.shields.io/badge/HTML-001F3F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-003366?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00509E?style=for-the-badge&logo=javascript&logoColor=white)
 
-- 📍 My old projects
-- 📱 Restaurant Recommendation App (React-Native)
-- 🎧 Mobile + Desktop Spotify Clone (Working on it soon...)
-- 📝 My next blog
-- 🎨 My CSS skill
+### ⚙️ Back-End (aprendendo)
+![Node.js](https://img.shields.io/badge/Node.js-001F3F?style=for-the-badge&logo=node.js&logoColor=green)
 
-<hr />
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-001F3F?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
-<!-- Tecnologias em Aprendizagem -->
-### 🌱 I'm currently learning
+---
 
-- 📱 React Native
-- 🔥 Firebase
-- ⚛️ React Context API
-- 💅 Styled Components
+## 🔹 projetos
+
+- 📌 SPA - Cadastro de Alunos  
+- 📌 Mini SPA (com navegação dinâmica)  
+- 📌 DER - MedConnect  
+
+---
+
+## 🔹 estatisticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔹 contato
+
+- 💼 LinkedIn: em breve  
+- 📧 Email: opcional  
+
+---
+
+### ⚡ “Evoluindo um commit de cada vez.”
