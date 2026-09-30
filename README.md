@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=200&section=header&text=Hilbert%20Gabriel&fontSize=35&fontColor=00BFFF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:001F3F&height=120&section=header"/>
 # 👨‍💻 Hilbert Gabriel
 ### 💻 Estudante de ADS | Futuro Desenvolvedor Web
 
