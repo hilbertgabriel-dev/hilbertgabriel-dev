@@ -8,17 +8,6 @@
 
 ---
 
-## 💠 sobre_mim
-
-```bash
-Olá! Eu sou o Hilbert 👋
-
-- Estudante de ADS (UNINASSAU)
-- Apaixonado por tecnologia
-- Focado em desenvolvimento web
-- Evoluindo um commit de cada vez
-
----
 
 ## 🔹 sobre_mim
 
