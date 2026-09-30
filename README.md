@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:001F3F&height=120&section=header"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=22&center=true&vCenter=true&width=700&lines=$+whoami;Hilbert+Gabriel;$+status;ADS+Student;$+focus;Web+Development" />
+</p>
 # 👨‍💻 Hilbert Gabriel
 ### 💻 Estudante de ADS | Futuro Desenvolvedor Web
 
