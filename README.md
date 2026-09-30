@@ -48,20 +48,14 @@ Atualmente focado em desenvolvimento web e na criação de projetos funcionais.
 
 ---
 
-## > 📊 estatisticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## > 📡 contato
 
 - 💼 LinkedIn: em breve  
 - 📧 Email: opcional  
 
+---
+
+### ⚡ "Evoluindo um commit de cada vez."
 ---
 
 ### ⚡ "Evoluindo um commit de cada vez."
