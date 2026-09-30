@@ -58,4 +58,3 @@ Atualmente focado em desenvolvimento web e na criação de projetos funcionais.
 ### ⚡ "Evoluindo um commit de cada vez."
 ---
 
-### ⚡ "Evoluindo um commit de cada vez."
