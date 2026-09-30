@@ -1,18 +1,19 @@
 <!-- Banner Principal -->
 <!-- Substitui a URL da imagem abaixo pela URL da tua imagem de banner (ex: Canva, Imgur, etc.) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/0d1117/38bdf8?text=HILBERT+GABRIEL+-+DEVELOPER" alt="Header Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=ADS+Student;Future+Developer;Bem-vindo+ao+meu+GitHub"/>
 </p>
 
 <!-- Saudação e Apresentação Principal -->
 <h1 align="center">Hi there, I'm Hilbert Gabriel 👋</h1>
 
 <h3 align="center">
-  I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+  Estudante de ADS 💻 | Foco em Desenvolvimento Web 🚀
 </h3>
 
 <p align="center">
-  I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people.
+ Gosto de tecnologia, programação e aprender na prática. 
+Estou focado em evoluir como desenvolvedor web e construir projetos reais.
 </p>
 
 <hr />
