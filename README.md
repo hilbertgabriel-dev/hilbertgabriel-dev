@@ -1,54 +1,46 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Hilbert+Gabriel;ADS+Student;Future+Web+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header"/>
 </p>
+
+<h1 align="center">Hilbert Gabriel</h1>
+<p align="center"><b>💻 Estudante de ADS | 🚀 Futuro Desenvolvedor Web</b></p>
 
 <p align="center">
-  <b>💻 Estudante de ADS | 🚀 Foco em Desenvolvimento Web</b>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-Perfil-0D1117?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-Perfil-0D1117?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
 
+## > 🧠 sobre_mim
 
-## 🔹 sobre_mim
+Olá! Eu sou o Hilbert 👋  
 
-```bash
-> nome
-Hilbert Gabriel
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).  
+Gosto de tecnologia, programação e aprender na prática.  
 
-> curso
-ADS - UNINASSAU
-
-> foco
-Desenvolvimento Web
-
-> status
-Evoluindo um commit de cada vez 🚀
-
-Atualmente estudo Análise e Desenvolvimento de Sistemas (ADS).  
-Gosto de tecnologia, programação e aprender na prática.
-
-Estou focado em desenvolvimento web e em criar projetos que realmente funcionem.
+Atualmente focado em desenvolvimento web e na criação de projetos funcionais.
 
 ---
 
-## 🔹 tecnologias
+## > ⚙️ tecnologias
 
 ### 💻 Front-End
-![HTML](https://img.shields.io/badge/HTML-001F3F?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-003366?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00509E?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### ⚙️ Back-End (aprendendo)
-![Node.js](https://img.shields.io/badge/Node.js-001F3F?style=for-the-badge&logo=node.js&logoColor=green)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-001F3F?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
-## 🔹 projetos
+## > 📁 projetos
 
 - 📌 SPA - Cadastro de Alunos  
 - 📌 Mini SPA (com navegação dinâmica)  
@@ -56,17 +48,20 @@ Estou focado em desenvolvimento web e em criar projetos que realmente funcionem.
 
 ---
 
-## 🔹 estatisticas
+## > 📊 estatisticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🔹 contato
+## > 📡 contato
 
 - 💼 LinkedIn: em breve  
 - 📧 Email: opcional  
 
 ---
 
-### ⚡ “Evoluindo um commit de cada vez.”
+### ⚡ "Evoluindo um commit de cada vez."
