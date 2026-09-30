@@ -11,7 +11,18 @@
 
 ## 🔹 sobre_mim
 
-Olá! Eu sou o Hilbert 👋  
+```bash
+> nome
+Hilbert Gabriel
+
+> curso
+ADS - UNINASSAU
+
+> foco
+Desenvolvimento Web
+
+> status
+Evoluindo um commit de cada vez 🚀
 
 Atualmente estudo Análise e Desenvolvimento de Sistemas (ADS).  
 Gosto de tecnologia, programação e aprender na prática.
