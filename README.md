@@ -1,8 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=22&center=true&vCenter=true&width=700&lines=$+whoami;Hilbert+Gabriel;$+status;ADS+Student;$+focus;Web+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Hilbert+Gabriel;ADS+Student;Future+Web+Developer" />
 </p>
-# 👨‍💻 Hilbert Gabriel
-### 💻 Estudante de ADS | Futuro Desenvolvedor Web
+
+<p align="center">
+  <b>💻 Estudante de ADS | 🚀 Foco em Desenvolvimento Web</b>
+</p>
+
+---
+
+## 💠 sobre_mim
+
+```bash
+Olá! Eu sou o Hilbert 👋
+
+- Estudante de ADS (UNINASSAU)
+- Apaixonado por tecnologia
+- Focado em desenvolvimento web
+- Evoluindo um commit de cada vez
 
 ---
 
