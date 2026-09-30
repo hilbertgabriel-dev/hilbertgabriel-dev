@@ -50,8 +50,8 @@ Atualmente focado em desenvolvimento web e na criação de projetos funcionais.
 
 ## > 📡 contato
 
-- 💼 LinkedIn: em breve  
-- 📧 Email: opcional  
+- 📱 WhatsApp: 79996075411
+- 📧 Email: hilbertclash9@gmail.com  
 
 ---
 
